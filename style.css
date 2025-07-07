@@ -1628,8 +1628,3 @@ html, body {
 }
 
 /* Debugging helper (remove after fixing) */
-@media (max-width: 768px) {
-  * {
-    outline: 1px solid red !important;
-  }
-}
